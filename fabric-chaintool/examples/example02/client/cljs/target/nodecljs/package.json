@@ -1,0 +1,15 @@
+{
+  "name": "example02",
+  "description": "FIXME: write this!",
+  "version": "0.1.0-SNAPSHOT",
+  "homepage": "http://example.com/FIXME",
+  "dependencies": {
+    "fabric-client": "1.0.0-beta",
+    "protobufjs": "5.0.1",
+    "read-yaml": "1.1.0",
+    "source-map-support": "0.4.15"
+  },
+  "bin": {
+    "example02": "./main.js"
+  }
+}
